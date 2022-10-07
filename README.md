@@ -104,5 +104,5 @@ Changelog.
 - Replica Crafting - to re add.
 - Quickbars MWSE
 
-#Known Issues
+# Known Issues
 - Randomised Ajira's Alchemy Reports - will be fixed.
